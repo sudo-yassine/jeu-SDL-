@@ -1,0 +1,1 @@
+path: q3.png num_reponse: 3
